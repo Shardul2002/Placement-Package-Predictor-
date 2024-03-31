@@ -8,7 +8,7 @@ This project focuses on predicting the placement package of students based on th
 The dataset used for training and evaluation contains comprehensive data about students, including their academic scores, technical skills, non-technical skills, and more. It is anonymized and carefully curated to maintain privacy and confidentiality.
 
 # Methodology
-We employed the Support Vector Regression (SVR) algorithm for this prediction task. SVR is a powerful machine learning algorithm that can handle complex relationships between features and target variables, making it suitable for predicting placement packages.
+I employed the Support Vector Regression (SVR) algorithm for this prediction task. SVR is a powerful machine learning algorithm that can handle complex relationships between features and target variables, making it suitable for predicting placement packages.
 
 # Project Architecture:
 
