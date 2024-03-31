@@ -1,4 +1,5 @@
-# Placement-Package-Predictor-
+# Placement-Package-Predictor
+
 Project Website - https://placementpackagepredictor.streamlit.app/
 
 This project focuses on predicting the placement package of students based on their academic scores, technical skills, non-technical skills, and other relevant factors. The goal is to provide insights into the potential salary range a student can expect upon placement.
